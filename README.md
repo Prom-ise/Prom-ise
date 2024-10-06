@@ -7,7 +7,7 @@ Dedicated Web Developer | Coffee Enthusiast ☕💻 | Creative Problem-Solver
 
 ### **🌟 About Me**
 
-Hi there! I'm **Dev_Promise**, a passionate web developer with over **2 years of experience** in crafting sleek, responsive, and user-friendly websites and applications. My journey into the world of web development started with a love for solving problems through code and has grown into a full-blown passion for building **efficient and scalable** web solutions.
+Hi there! I'm **Dev_Promise**, a passionate web developer with over **3 years of experience** in crafting sleek, responsive, and user-friendly websites and applications. My journey into the world of web development started with a love for solving problems through code and has grown into a full-blown passion for building **efficient and scalable** web solutions.
 
 ---
 
